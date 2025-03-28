@@ -2,6 +2,12 @@
 
 Ein Kommandozeilenprogramm zur Generierung von Hashwerten aus Texteingaben. Das Programm erstellt für einen übergebenen Text einen Hashwert und speichert beide Werte in einer Textdatei.
 
+**Disclaimer:** Dieses Programm wurde mit Hilfe von Windsurf erstellt.
+
+## Über Windsurf
+
+Windsurf ist eine KI-getriebene integrierte Entwicklungsumgebung (IDE), die Entwicklern dabei hilft, effizienter zu programmieren, indem sie intelligente Vorschläge und Automatisierungen bietet.
+
 ## Features
 
 - Unterstützung verschiedener Hash-Algorithmen (MD5, SHA1, SHA256, SHA384, SHA512)
