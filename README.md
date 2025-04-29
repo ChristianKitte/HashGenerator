@@ -2,7 +2,7 @@
 
 Ein Kommandozeilenprogramm zur Generierung von Hashwerten aus Texteingaben. Das Programm erstellt für einen übergebenen Text einen Hashwert und speichert beide Werte in einer Textdatei.
 
-**Disclaimer:** Dieses Programm wurde mit Hilfe von Windsurf erstellt.
+**Hinweis:** Dieses Programm wurde mit Hilfe von Windsurf erstellt.
 
 ## Über Windsurf
 
